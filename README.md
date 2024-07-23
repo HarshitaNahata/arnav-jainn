@@ -1,4 +1,4 @@
-[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPBAqH8mXjCr02s7w98zIZUMWGariPyfyXEg&s])(https://miro.medium.com/v2/resize:fit:4800/format:webp/1*6MYUqceqlLewavjqkoJy7g.png))]
+![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPBAqH8mXjCr02s7w98zIZUMWGariPyfyXEg&s])(https://miro.medium.com/v2/resize:fit:4800/format:webp/1*6MYUqceqlLewavjqkoJy7g.png))
 <h1 align="center">Hi 👋, I'm Arnav Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
